@@ -1,6 +1,6 @@
 Below is the JSON data that caused the error:
 
-'''
+```json
 {
   "location": "San Francisco",
   "current_weather": {
@@ -15,4 +15,4 @@ Below is the JSON data that caused the error:
     "precipitation": 10
   }
 }
-'''
+```
